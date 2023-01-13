@@ -1,0 +1,44 @@
+table {
+    width: 100%;
+}
+h1 {
+    text-align: center;
+}
+td, th {
+    border: 2px solid black;
+    width: 14.27%;
+}
+th {
+    padding: 8px 0;
+    background-color: teal;
+    color: lightblue;
+}
+td {
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+.weekend {
+    background-color: darkviolet;
+    color: white;
+}
+.summer {
+    background-color: palevioletred;
+    color: white;
+}
+.minimum-day {
+    background-color: #F71735;
+    color: white;
+}
+.school-day {
+    background-color: lavenderblush;
+    color: black;
+}
+.late-day {
+    background-color: cornflowerblue;
+    color: black
+}
+.next-month {
+    background-color: lightsteelblue;
+    color: black;
+}

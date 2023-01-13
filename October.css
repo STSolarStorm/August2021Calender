@@ -1,0 +1,49 @@
+table {
+    width: 100%;
+}
+h1 {
+    text-align: center;
+}
+td, th {
+    border: 2px solid black;
+    width: 14.27%;
+}
+th {
+    padding: 8px 0;
+    background-color: teal;
+    color: lightblue;
+}
+td {
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+    background-color: paleturquoise;
+}
+.weekend {
+    background-color: darkviolet;
+    color: white;
+}
+.homecoming {
+    background-color: gold;
+    color: black;
+}
+.homecoming-rally {
+    background-color: darkgoldenrod;
+    color: black;
+.minimum-day {
+    background-color: #F71735;
+    color: white;
+}
+.school-day {
+    background-color: yellowgreen;
+    color: black;
+}
+}
+.late-day {
+    background-color: cornflowerblue;
+    color: black
+}
+.last-month {
+    background-color: lightsteelblue;
+    color: black;
+}
